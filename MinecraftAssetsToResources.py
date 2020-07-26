@@ -1,5 +1,5 @@
 '''
-ResourcesCover MC 资源数据信息转换
+MinecraftAssetsToResources MC 资源数据信息转换
 Author Hendrix_Shen
 Version 0.2333.333.3333
 Description 闲的无聊整的
